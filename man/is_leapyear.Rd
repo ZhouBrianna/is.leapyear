@@ -7,7 +7,7 @@
 is_leapyear(year)
 }
 \arguments{
-\item{year}{A numeric scalar input representing a year.}
+\item{year}{A numeric or numeric-string scalar input representing a year.}
 }
 \value{
 TRUE if it is a leap year, FALSE otherwise.
@@ -17,8 +17,8 @@ This function determines whether the provided year is a leap year
 based on the rules of the Gregorian calendar.
 }
 \examples{
-is_leapyear("1992") # TRUE
-is_leayear(1900) # FALSE
 is_leapyear(2000) # TRUE
+is_leapyear("1992") # TRUE
+is_leapyear("1900") # FALSE
 
 }
