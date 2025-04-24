@@ -15,11 +15,8 @@ knitr::opts_chunk$set(
 
 # is.leapyear
 
-  <!-- badges: start -->
-  [![R-CMD-check](https://github.com/ZhouBrianna/is.leapyear/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ZhouBrianna/is.leapyear/actions/workflows/R-CMD-check.yaml)
-  <!-- badges: end -->
-
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/ZhouBrianna/is.leapyear/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ZhouBrianna/is.leapyear/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/ZhouBrianna/is.leapyear/graph/badge.svg)](https://app.codecov.io/gh/ZhouBrianna/is.leapyear)
 <!-- badges: end -->
 
